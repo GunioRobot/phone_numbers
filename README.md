@@ -50,4 +50,4 @@ to put your number formats in an initializer. For example, `config/initializers/
 
 Hope you like it!
 
-Copyright (c) 2009 [Vladimir Andrijevik], released under the MIT license
+Copyright (c) 2009-2010 [Vladimir Andrijevik], released under the MIT license
