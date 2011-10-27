@@ -1,6 +1,6 @@
 module PhoneNumbers
   @@formats = {}
-  
+
   def self.formats
     @@formats
   end

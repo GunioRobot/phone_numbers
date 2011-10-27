@@ -45,7 +45,7 @@ to put your number formats in an initializer. For example, `config/initializers/
 
     my_formats = {:my_number_format => /\d{10}/,
                   :no_area_code => /\d{3}-\d{4}/}
-    
+
     PhoneNumbers.formats.update(my_formats)
 
 Hope you like it!
